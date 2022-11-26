@@ -1,5 +1,7 @@
 fun main(){
-    // in java, we have to make data classes. These classes are not for special purposes but only store data .These are also called model classes. But in these classes, we have to make getters and setters for every property of that class. But in kotlin, we have to add 'data' keyword in start of that class. kotlin will behind the scenes, do all things himself. And it has also some extra features and functions that are helpful to us. 
+    // in java, we have to make data classes. These classes are not for special purposes but only store data .These are also called model classes.
+    // But in these classes, we have to make getters and setters for every property of that class. But in kotlin, we have to add 'data' keyword in start of that class.
+    // kotlin will behind the scenes, do all things himself. And it has also some extra features and functions that are helpful to us. 
 
     // making object of that class
     val p1 = DataClass(1, "John")
